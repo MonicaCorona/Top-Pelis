@@ -1,0 +1,23 @@
+﻿/*Estilos de página*/
+
+body {font-family: 'Montserrat', sans-serif; text-align: justify;color: white;background-color: #0A0A0A}
+
+#pagina {max-width: 1280px; margin: 0 auto;}
+
+#menu {background-image: url(../imagenes/botones2.png);height: 50px; background-repeat: no-repeat;}
+
+#menu ul li {display: inline-block;}
+
+#menu ul li a {display: block; width: 130px; height:21px; text-decoration: none; color: white; text-align: center; padding: 11.5px;transition: ease-in-out all 300ms}
+
+#menu ul li a:hover {background-color: black; transition: ease-in-out all 300ms}
+
+
+#contenidos h1 {font-size: 0.9em; font-family: 'Montserrat';}
+
+#contenidos h2 {font-size: 2.5em; font-family: 'Montserrat';}
+
+#contenidos ul li {display: inline-block; display: block}
+
+
+
